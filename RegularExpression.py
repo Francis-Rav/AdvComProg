@@ -18,7 +18,7 @@ if email_match:
 
 print()
 
-numbers_text = "I have 5 apples, 10 oranges, and 3 bananas"
+numbers_text = "I have 10 Mango, 20 Grapes, and 30 bananas"
 numbers = re.findall(r"\d+", numbers_text)
 print(f"Numbers found: {numbers}")
 
